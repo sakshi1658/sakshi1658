@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sakshi Sharma
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Nodejs and Api's 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sharmasakshi1658@gmail.com
 
 <!---
