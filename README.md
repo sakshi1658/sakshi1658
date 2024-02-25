@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sakshi Sharma
-- 🌱 I’m currently learning Nodejs and Api's 
+- 🌱 I’m currently learning AngularJS, Typescript and Bootstrap
 - 📫 How to reach me sharmasakshi1658@gmail.com
 
 <!---
