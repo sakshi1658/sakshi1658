@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"> alt=Coding" width-"400" src="https://camo.githubusercontent.com/30109e1de4f45df5c4a60367f74fd0caaf391ebfa2e5491e3f74f8c3c6fac6ce/68747470733a2f2f7777772e6b656570736f6c69642e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31322f67697068792d61727469636c652d746f702d746f6f6c732d666f722d6d616e61676572732e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/30109e1de4f45df5c4a60367f74fd0caaf391ebfa2e5491e3f74f8c3c6fac6ce/68747470733a2f2f7777772e6b656570736f6c69642e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31322f67697068792d61727469636c652d746f702d746f6f6c732d666f722d6d616e61676572732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi1658" /> </p>
 
