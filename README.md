@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658" alt="sakshi1658" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@itisakshi" target="blank"><img src="https://img.shields.io/twitter/follow/@itisakshi?logo=twitter&style=for-the-badge" alt="@itisakshi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@itisakshi" target="blank"><img src="https://img.shields.io/twitter/follow/itisakshi?logo=twitter&style=for-the-badge" alt="itisakshi" /></a> </p>
 
 - 🔭 I’m currently working on **Natours**
 
