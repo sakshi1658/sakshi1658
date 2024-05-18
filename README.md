@@ -14,6 +14,7 @@
 - 📫 How to reach me **sharmasakshi1658@gmail.com**
 
 - ⚡ Fun fact **I make jokes when I am uncomfortable.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +23,7 @@
 <a href="https://linkedin.com/in/sakshi-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/it_isakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_isakshi" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
