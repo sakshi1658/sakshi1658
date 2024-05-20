@@ -81,15 +81,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-<br>
-<br>
-<br>
-<br>
-
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi1658&show_icons=true&locale=en&layout=compact" alt="sakshi1658" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi1658&show_icons=true&locale=en" alt="sakshi1658" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi1658&" alt="sakshi1658" /></p>
-</div>
