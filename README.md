@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658" alt="sakshi1658" /></a> </p>
 
-- 🔭 I’m currently working on **Natours**
+- 🔭 I’m currently working on  **Natours**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning  **Reactjs**
 
-- 💬 Ask me about **HTML, CSS, Angular, JavaScript, and related web technologies**
+- 💬 Ask me about  **HTML, CSS, Angular, JavaScript, and related web technologies**
 
-- 📫 How to reach me **sharmasakshi1658@gmail.com**
+- 📫 How to reach me  **sharmasakshi1658@gmail.com**
 
-- ⚡ Fun fact **I make jokes when I am uncomfortable.**
+- ⚡ Fun fact  **I make jokes when I am uncomfortable.**
   
 
 <h3 align="left">Connect with me: </h3>
