@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  **Natours**
 
-- 🌱 I’m currently learning  **Angularjs**
+- 🌱 I’m currently learning  **Angular**
 
 - 💬 Ask me about  **HTML, CSS, Angular, JavaScript, and related web technologies**
 
