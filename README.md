@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658" alt="sakshi1658" /></a> </p>
 
-- 🔭 I’m Sakshi Sharma.
   
 - 🌱 I’m currently revising the basic fundamentals of Javascript.
   
