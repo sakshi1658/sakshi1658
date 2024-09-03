@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658" alt="sakshi1658" /></a> </p>
 
-- 🔭 I’m currently revising the basic fundamentals of Javascript.
-
-- 🌱 I’m currently learning  **Angular**
-
+- 🔭 I’m Sakshi Sharma.
+  
+- 🌱 I’m currently revising the basic fundamentals of Javascript.
+  
 - 💬 Ask me about  **HTML, CSS, Angular, JavaScript, and related web technologies**
 
 - 📫 How to reach me  **sharmasakshi1658@gmail.com**
