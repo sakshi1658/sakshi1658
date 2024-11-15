@@ -67,10 +67,8 @@
 </p>
 
 <h3 align="center">My GitHub Streak:</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sakshi1658" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=sakshi1658" alt="GitHub Streak" />
   </a>
-</p>
+
 
 ---
