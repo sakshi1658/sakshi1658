@@ -1,45 +1,45 @@
 <h1 align="center"> 
-  <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span> Hi, I'm 
-  <span style="display: inline-block; animation: fadeIn 2s;">Sakshi Sharma</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm <strong>Sakshi Sharma</strong>
 </h1>
 
-<h3 align="center">Developer Dedicated to Mental Health Innovation at IIIT Bangalore E-Health Research Center</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658" alt="Trophies" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+web+developer;Developer+at+IIIT+Bangalore+E-Health+Research+Center">
 </p>
 
 ---
 
-- 🌱 I’m currently working on my **portfolio website**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" /></a>
+</p>
+
+---
+
+### About Me
+- 🌱 Currently working on my **portfolio website**.
 - 💬 Ask me about **HTML, CSS, Angular, JavaScript, and related web technologies**.
-- 📫 How to reach me: **sharmasakshi1658@gmail.com**
+- 📫 Reach me at: **sharmasakshi1658@gmail.com**
 - ⚡ Fun fact: **I make jokes when I’m uncomfortable!**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with Me</h3>
+<p align="center">
   <a href="https://twitter.com/itisakshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sakshi-sharma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/it_isakshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add any relevant tools -->
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
@@ -59,6 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
+
 
 ---
 
