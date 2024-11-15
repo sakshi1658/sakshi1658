@@ -3,8 +3,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+web+developer;Developer+at+IIIT+Bangalore+E-Health+Research+Center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+web+developer">
 </p>
+
+<h3 align="center">
+  <span style="font-size: 1.2em; font-weight: bold; color: #FF6F61; background-color: #f8f9fa; padding: 5px 10px; border-radius: 5px;">
+    Developer Dedicated to Mental Health Innovation at IIIT Bangalore E-Health Research Center
+  </span>
+</h3>
+
 
 ---
 
