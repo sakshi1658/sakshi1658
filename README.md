@@ -34,9 +34,10 @@
   <a href="https://twitter.com/itisakshi" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="[https://linkedin.com/in/sakshi-sharma](https://www.linkedin.com/in/sakshi-sharma-b80572231)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/sakshi-sharma-b80572231" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="https://instagram.com/it_isakshi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
