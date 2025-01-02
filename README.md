@@ -26,6 +26,14 @@
 - 💬 Ask me about **HTML, CSS, Angular, JavaScript, and related web technologies**.
 - 📫 Reach me at: **sharmasakshi1658@gmail.com**
 - ⚡ Fun fact: **I make jokes when I’m uncomfortable!**
+- 🧠 Passionate about **Mental Health Innovations** in technology.
+
+---
+
+<h3 align="center">My Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshi1658&theme=github_dark" />
+</p>
 
 ---
 
@@ -34,12 +42,14 @@
   <a href="https://twitter.com/itisakshi" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-<a href="https://www.linkedin.com/in/sakshi-sharma-b80572231" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/sakshi-sharma-b80572231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/it_isakshi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sharmasakshi1658@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -53,31 +63,66 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
-
 
 ---
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/handeebrar/handeebrar/master/img/study.gif" alt="Coding" height="200" style="margin: 10px;" />
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sakshi1658" alt="GitHub Streak" height="200" style="margin: 10px;" />
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <a href="https://github.com/sakshi1658">
+    <img src="https://github-readme-stats.vercel.app/api?username=sakshi1658&show_icons=true&theme=radical" alt="Sakshi's GitHub Stats" width="400"/>
+  </a>
+  <a href="https://github.com/sakshi1658">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi1658&theme=radical" alt="Sakshi's GitHub Streak" width="400"/>
   </a>
 </div>
 
+---
 
+<h3 align="center">Some of My Projects</h3>
+<p align="center">
+  <a href="https://github.com/sakshi1658/my-project-1">
+    <img src="https://img.shields.io/badge/Project%201-%2300E676.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" width="160"/>
+  </a>
+  <a href="https://github.com/sakshi1658/my-project-2">
+    <img src="https://img.shields.io/badge/Project%202-%2300E676.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" width="160"/>
+  </a>
+  <a href="https://github.com/sakshi1658/my-project-3">
+    <img src="https://img.shields.io/badge/Project%203-%2300E676.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" width="160"/>
+  </a>
+</p>
 
 ---
+
+<h3 align="center">Fun Facts & Trivia</h3>
+<ul align="center">
+  <li>🔧 I enjoy automating tedious tasks with simple scripts!</li>
+  <li>🌍 I dream of working with teams around the globe!</li>
+  <li>🎧 My favorite hobby: Listening to podcasts while coding.</li>
+  <li>📚 My favorite books: **Atomic Habits** and **The Pragmatic Programmer**.</li>
+</ul>
+
+---
+
+<h3 align="center">Let's Build Something Awesome Together! 🚀</h3>
+
+---
+
+<h3 align="center">Profile Views</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sakshi1658" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"/>
+  </a>
+</p>
