@@ -100,24 +100,23 @@
 
 ---
 
-<h3 align="center">Fun Facts & Trivia</h3>
-<ul align="center">
-  <li>🔧 I enjoy automating tedious tasks with simple scripts!</li>
-  <li>🌍 I dream of working with teams around the globe!</li>
-  <li>🎧 My favorite hobby: Listening to podcasts while coding.</li>
-  <li>📚 My favorite books: **Atomic Habits** and **The Pragmatic Programmer**.</li>
-</ul>
+### 📚 **Favorite Books That Inspire Me**:
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/book.png" height="25" />
+  <strong>Life is What You Make It</strong> by **Preeti Shenoy**
+  <br />
+  <em> A life-changing book that teaches us about resilience and the power of decisions. </em>
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/book.png" height="25" />
+  <strong>That Hardly Happens to Someone</strong> by **Ravi Subramanian**
+  <br />
+  <em> A suspense-filled journey with unexpected twists. Ideal for thriller lovers! </em>
+</p>
 
 ---
 
 <h3 align="center">Let's Build Something Awesome Together! 🚀</h3>
-
----
-
-<h3 align="center">Profile Views</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
