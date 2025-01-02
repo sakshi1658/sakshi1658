@@ -98,9 +98,6 @@
   <em> A suspense-filled journey with unexpected twists. Ideal for thriller lovers! </em>
 </p>
 
----
-
-<h3 align="center">Let's Build Something Awesome Together! 🚀</h3>
 
 ---
 
