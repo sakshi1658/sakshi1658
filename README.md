@@ -87,7 +87,7 @@
 
 <h3 align="center">Some of My Projects</h3>
 <p align="center">
-  <a href="https://github.com/sakshi1658/my-project-1">
+  <a href="sakshi1658.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Project%201-%2300E676.svg?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" width="160"/>
   </a>
   <a href="https://github.com/sakshi1658/my-project-2">
