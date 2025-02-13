@@ -78,9 +78,6 @@
   <a href="https://github.com/sakshi1658">
     <img src="https://github-readme-stats.vercel.app/api?username=sakshi1658&show_icons=true&theme=radical" alt="Sakshi's GitHub Stats" width="400"/>
   </a>
-  <a href="https://github.com/sakshi1658">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi1658&theme=radical" alt="Sakshi's GitHub Streak" width="400"/>
-  </a>
 </div>
 ---
 
