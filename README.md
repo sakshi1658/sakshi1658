@@ -14,13 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi1658&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi1658&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" /></a>
-</p>
-
----
-
 ### About Me
 - 🌱 Currently working on my **portfolio website**.
 - 💬 Ask me about **HTML, CSS, Angular, JavaScript, and related web technologies**.
