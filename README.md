@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer Girl GIF"/>
+</p>
+
+<p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+web+developer">
 </p>
 
